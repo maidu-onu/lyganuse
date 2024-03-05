@@ -26,9 +26,9 @@
 		max-width and max-height to limit the width to the size of the map.  Like this:
 		*/
 		#map_container {
-			max-width: 566px; 
+			max-width: 100%; 
 			width: 100%;
-			max-height: 737px;
+			max-height: 100%;
 			height: 100%;
 		}
 		
@@ -36,8 +36,8 @@
 		For standard websites we recommend explicitly setting a width and height of the container div. Like this:
 		
 		#map_container {
-			width: 566px; 
-			height: 737px;
+			width: 100%; 
+			height: 100%;
 		}		
 		*/
 		
@@ -70,6 +70,7 @@
 				legendImageId: 'map_legendImage',
 				prefixUrl: 'index_data/',
 				enableZoomSelection: true,
+				useContainerAsViewport: true,
 				minZoomImageRatio: 0.9
 			});
 		});
