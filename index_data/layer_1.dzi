@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image TileSize="512" Overlap="0" Format="png" xmlns="http://schemas.microsoft.com/deepzoom/2009">
+<Size Width="4180.86" Height="4973.34"/>
+<DisplayRects>
+<DisplayRect MinLevel="7" MaxLevel="13">
+<Rect X="1218" Y="3094" Width="567" Height="423"/>
+</DisplayRect>
+<DisplayRect MinLevel="7" MaxLevel="13">
+<Rect X="2310" Y="1989" Width="115" Height="94"/>
+</DisplayRect>
+<DisplayRect MinLevel="7" MaxLevel="13">
+<Rect X="1245" Y="3663" Width="80" Height="65"/>
+</DisplayRect>
+<DisplayRect MinLevel="7" MaxLevel="13">
+<Rect X="1577" Y="1715" Width="202" Height="96"/>
+</DisplayRect>
+<DisplayRect MinLevel="7" MaxLevel="13">
+<Rect X="2066" Y="1652" Width="268" Height="99"/>
+</DisplayRect>
+<DisplayRect MinLevel="7" MaxLevel="13">
+<Rect X="2102" Y="1916" Width="101" Height="91"/>
+</DisplayRect>
+<DisplayRect MinLevel="7" MaxLevel="13">
+<Rect X="2330" Y="1419" Width="357" Height="190"/>
+</DisplayRect>
+<DisplayRect MinLevel="7" MaxLevel="13">
+<Rect X="1357" Y="3670" Width="359" Height="47"/>
+</DisplayRect>
+<DisplayRect MinLevel="7" MaxLevel="13">
+<Rect X="2452" Y="1634" Width="292" Height="179"/>
+</DisplayRect>
+</DisplayRects>
+</Image>
