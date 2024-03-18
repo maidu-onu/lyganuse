@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image TileSize="512" Overlap="0" Format="png" xmlns="http://schemas.microsoft.com/deepzoom/2009">
+<Size Width="12239.1" Height="9770.71"/>
+<DisplayRects>
+<DisplayRect MinLevel="7" MaxLevel="14">
+<Rect X="0" Y="0" Width="12239" Height="9770"/>
+</DisplayRect>
+</DisplayRects>
+</Image>
